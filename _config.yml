@@ -11,9 +11,9 @@ title                    : "Wil Ton Chuah / Personal Website"
 title_separator          : "-"
 name                     : &name "Wil Ton"
 description              : &description "Wil Ton is currently pursuing his master's in Computer Science and Engineering at Georgia Tech. He is actively searching for data-related internships for the summer of 2024. His academic background and commitment make him a strong candidate in the tech field"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wilton12.github.io/wiltonchuah.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "wilton12/wiltonchuah.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
